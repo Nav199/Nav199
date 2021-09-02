@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @Nav199
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-Nav199/Nav199 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+   var Cadastro_Aluno = [         
+        {
+            nome: "",
+            idade: "",
+            gênero: "",
+            mensalidade: 35
+        }
+   ]
+
+   var turmas = [
+
+            {
+                horario: "Manha",
+                atividade:"natacao, luta:(karater, muay tai, boxe ),danca"
+
+            },
+
+            {
+                horario:"tarde",
+                atividade:"natacao , boxe e danca",
+
+            },
+
+            {
+                horario:"noite",
+                atividade: "danca,boxe e karater"
+
+            }
+   ]
